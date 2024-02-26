@@ -1,16 +1,8 @@
-# info10
+# smartfridgemanager
 
 ## Smart Fridge Manager
 
 The Smart Fridge Manager project aims to help users efficiently manage the contents of their fridge and plan meals effectively. This application enables users to track ingredients, find recipes based on available items, and reduce food waste.
-
-## Authors
-- [Simon AUTECHAUD](https://devops.telecomste.fr/mazoyer.lea)  
-- [Alexandre CHAMBRIER](https://devops.telecomste.fr/chambrier.alexandre) 
-- [Oscar CIZERON](https://devops.telecomste.fr/cizeron.oscar)  
-- [Clément JACQUET](https://devops.telecomste.fr/jacquet.clement)  
-- [Léa MAZOYER](https://devops.telecomste.fr/mazoyer.lea)  
-- [Quentin RABAN](https://devops.telecomste.fr/raban.quentin)  
 
 ## Features
 
@@ -35,8 +27,8 @@ The Smart Fridge Manager project aims to help users efficiently manage the conte
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourName/info10.git
-cd info10
+git clone https://github.com/yourName/smartfridgemanager.git
+cd smartfridgemanager
 ```
 
 2. Build the project:
